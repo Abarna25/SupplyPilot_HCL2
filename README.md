@@ -68,9 +68,6 @@ Gemini Flash (gemini-flash-latest)
 Grounded Answer + Source File & Page Number Evidence
 ```
 
-> [!NOTE]
-> The original assignment prompt mentions OpenAI models. This implementation uses Gemini API (`models/gemini-embedding-001` and `gemini-flash-latest`) as the model substitution requested for this project.
-
 ---
 
 ## 7. Technology Stack
